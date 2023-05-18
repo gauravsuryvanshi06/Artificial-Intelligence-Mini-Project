@@ -118,6 +118,12 @@ Various algorithms can be used for news recommendation systems, depending on the
 7\. Bandit Algorithms: Bandit algorithms, such as Thompson Sampling or Upper Confidence Bound (UCB), are used for online learning and exploration-exploitation trade-offs. These algorithms dynamically adapt recommendations based on user feedback and continuously learn and optimize the recommendation strategy over time.
 
 It's important to note that the choice of algorithm depends on factors such as available data, system requirements, computational resources, and the desired trade-offs between accuracy, diversity, and personalization. Often, a combination of algorithms or hybrid approaches is employed to achieve the best results in news recommendation systems.
+![Screenshot_20230519_012151_Gallery.jpg](https://github.com/gauravsuryvanshi06/Flutter-Dairy-Milk-Delivery-App-/assets/80798531/d428aec1-a97d-4254-a50b-d86e4e7e5e79)
+
+![10462_2021_10043_Fig6_HTML.jpg](https://github.com/gauravsuryvanshi06/Flutter-Dairy-Milk-Delivery-App-/assets/80798531/ad1844da-652b-4979-bd5e-182aefd6ff36)
+
+![10462_2021_10043_Fig5_HTML.jpg](https://github.com/gauravsuryvanshi06/Flutter-Dairy-Milk-Delivery-App-/assets/80798531/e6c31f66-85e6-4bf9-abae-7f7cec8d1e43)
+
 
 **Datasets:**
 
