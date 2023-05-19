@@ -7,10 +7,11 @@ DSBDA-Mini-Project News Recommendation System[https://www.kaggle.com/code/gd081s
 **Presented By:**
 
 1. Darshan Nerkar(TYCO-B63)
-1. Gaurav Suryawanshi(TYCO-B39)
-1. Nilesh Surve(TYCO-B38)
-1. Ishwar Vinchu(TYCO-B48)
-1. Kshitij Shinde(TYCO-B34)
+2. Gaurav Suryawanshi(TYCO-B39)
+3. Nilesh Surve(TYCO-B38)
+4. Adarsh Shelore(TYCO-B32)
+5. Ishwar Vinchu(TYCO-B48)
+6. Kshitij Shinde(TYCO-B34)
 
 
 
