@@ -1,6 +1,6 @@
-# DSBDA-Mini-Project
-DSBDA-Mini-Project News Recommendation System[https://www.kaggle.com/code/gd081sa/news-dataset/edit]
-# REPORT OF DSBDA
+# Artificial-Intelligence-Mini-Project
+AI Mini-Project News Recommendation System[https://www.kaggle.com/code/gd081sa/news-dataset/edit]
+# REPORT OF Artificial-Intelligence-Mini-Project
 
 
 
