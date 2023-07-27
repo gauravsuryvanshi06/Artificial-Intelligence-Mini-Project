@@ -15,7 +15,7 @@ AI Mini-Project News Recommendation System[https://www.kaggle.com/code/gd081sa/n
 
 
 
-**Title:** News Recommendation System.
+**Title:** News Recommendation System Using Various Algorithms :  Collaborative Filtering,Hybrid Approaches, Content-Based Filtering.
 
 
 # **Problem Statement:** 
